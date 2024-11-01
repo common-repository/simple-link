@@ -1,0 +1,10 @@
+#clicklink_div {margin-bottom:3px;border:1px solid #EBEBEB; padding:2px;}
+#clicklink_div h3{margin-bottom:0px;}
+#sl_filters{margin-top:0px;}
+#clicklink_container {padding:2px;border:3px dashed #D1E6EF;margin:4px ;max-height:300px;overflow:auto;}
+#sl_filters{ overflow:auto; margin-top:4px; }
+#sl_filters div.sl_filter{ float:left; margin-left:5px; padding-right:3px; border-right:2px solid #C6D9E9; }
+#sl_filters div.sl_filter:last-child{ border:none;}
+
+#sl_tag{width:125px;}
+#sl_keyword{width:125px;}
